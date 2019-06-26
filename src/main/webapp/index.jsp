@@ -2,11 +2,11 @@
 <body>
 <h2>Hello World!</h2>
 
-<h3>WelCome to Jenkins! We are working on Code Pipeline version 2</h3>
+<h3>WelCome to Jenkins! We are Going to start a jenkins Pipeline soon</h3>
 
-<p> This is change is to verify the Stage vs Production</p>>
+<p> This page is designed to check some tests in Tomcat word</p>>
 
-<p> Author Sanjay Patil</p>>
+<p> The new deployment will be taking place in staging</p>>
 
 </body>
 </html>
