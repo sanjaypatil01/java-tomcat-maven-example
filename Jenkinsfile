@@ -1,13 +1,12 @@
 pipeline {
     agent any
     stages {
-        stage ('initialize') {
+        stage ('initialized') {
             steps {
                 /*For windows machine */
-               bat...
                echo "M2_HOME = %M2_HOME%"
-               echo "PATH = %PATH%" 
-               ...             
+               echo "Initializing the code" 
+                           
             }
         }
 
