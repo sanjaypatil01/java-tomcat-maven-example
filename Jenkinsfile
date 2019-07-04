@@ -1,11 +1,9 @@
 pipeline {
     agent any
     stages {
-        stage ('initialized') {
+        stage ('initialize') {
             steps {
-                /*For windows machine */
-               echo "M2_HOME = %M2_HOME%"
-               echo "Initializing the code" 
+                  echo 'Initializing the code' 
                            
             }
         }
